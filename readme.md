@@ -51,7 +51,7 @@ Docker volumes allow you to store data outside of a container's writable layer. 
 - Mounting a Docker volume
 
 # Advanced Level
-# 1. Docker Security
+## 1. Docker Security
 Docker security is an essential aspect of Docker's architecture. As a Docker master, you should know how to secure your Docker environment. Here's what you can learn:
 
 - Docker security best practices
@@ -59,14 +59,14 @@ Docker security is an essential aspect of Docker's architecture. As a Docker mas
 - Docker container security
 - Docker network security
 
-# 2. Docker Swarm
+## 2. Docker Swarm
 Docker Swarm is a container orchestration tool that allows you to manage a cluster of Docker nodes. With Docker Swarm, you can deploy, manage, and scale your Docker applications. Here's what you can learn:
 
 - Creating a Docker Swarm cluster
 - Deploying Docker services
 - Scaling Docker services
 
-# 3. Docker API
+## 3. Docker API
 Docker API is an HTTP API that allows you to control Docker using RESTful API calls. With Docker API, you can automate Docker tasks and integrate Docker with other tools. Here's what you can learn:
 
 - Docker API endpoints
